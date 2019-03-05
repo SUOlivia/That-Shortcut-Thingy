@@ -7,6 +7,7 @@ Usage instructions:
   2. Launch the shortcut
   3. ???
   4. Profit
+  
   (Note that if you are using FastBoot3ds, FCRAM Boot needs to be enabled. It is located under Boot Setup)
 
 Building instructions:
